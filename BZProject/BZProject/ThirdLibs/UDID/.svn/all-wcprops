@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/property/!svn/ver/1696/project/app/ios/JRProperty/trunk/JRProperty/JRProperty/ThirdLibs/UDID
+END
+NSString+MD5Addition.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/property/!svn/ver/1544/project/app/ios/JRProperty/trunk/JRProperty/JRProperty/ThirdLibs/UDID/NSString+MD5Addition.m
+END
+CHKeychain.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/property/!svn/ver/1544/project/app/ios/JRProperty/trunk/JRProperty/JRProperty/ThirdLibs/UDID/CHKeychain.m
+END
+KeychainItemWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/property/!svn/ver/1544/project/app/ios/JRProperty/trunk/JRProperty/JRProperty/ThirdLibs/UDID/KeychainItemWrapper.h
+END
+UIDevice+IdentifierAddition.m
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/property/!svn/ver/1696/project/app/ios/JRProperty/trunk/JRProperty/JRProperty/ThirdLibs/UDID/UIDevice+IdentifierAddition.m
+END
+KeychainItemWrapper.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/property/!svn/ver/1544/project/app/ios/JRProperty/trunk/JRProperty/JRProperty/ThirdLibs/UDID/KeychainItemWrapper.m
+END
+NSString+MD5Addition.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/property/!svn/ver/1544/project/app/ios/JRProperty/trunk/JRProperty/JRProperty/ThirdLibs/UDID/NSString+MD5Addition.h
+END
+CHKeychain.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/property/!svn/ver/1544/project/app/ios/JRProperty/trunk/JRProperty/JRProperty/ThirdLibs/UDID/CHKeychain.h
+END
+UIDevice+IdentifierAddition.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/property/!svn/ver/1544/project/app/ios/JRProperty/trunk/JRProperty/JRProperty/ThirdLibs/UDID/UIDevice+IdentifierAddition.h
+END
